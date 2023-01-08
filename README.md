@@ -1,7 +1,7 @@
 # **Task--2**
 ### AUTHOR : AGNIVA SHIL
 
-### The Spark Foundation - Data Science and Business Analytics Internship
+### The Sparks Foundation - Data Science and Business Analytics Internship
 
 ### (GRIP JANUARY'23)
 
